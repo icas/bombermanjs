@@ -1,0 +1,7 @@
+== README
+
+Después de clonar:
+
+$ npm install
+$ bower install
+$ grunt server
