@@ -1,0 +1,3 @@
+GameEngine.Config = {
+  imagePath: '/images/'
+}
